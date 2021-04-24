@@ -454,13 +454,13 @@
     "address": "HZyhLoyAnfQ72irTdqPdWo2oFL9zzXaBmAqN72iF3sdX",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": true
-  }, 
+  },
    {
     "name": "RAY/USDC",
     "address": "Bgz8EEMBjejAGSn6FdtKJkSGtvg4cuJUuRwaCBp28S3U",
     "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
     "deprecated": true
-  }, 
+  },
   {
     "name": "RAY/SRM",
     "address": "HSGuveQDXtvYR432xjpKPgHfzWQxnb3T8FNuAAvaBbsU",
@@ -1172,6 +1172,12 @@
   {
     "name": "ROPE/USDC",
     "address": "4Sg1g8U2ZuGnGYxAhc6MmX9MX7yZbrrraPkCQ9MdCPtF",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated":false
+  },
+  {
+    "name": "STEP/USDC",
+    "address": "97qCB4cAVSTthvJu3eNoEx6AY6DLuRDtCoPm5Tdyg77S",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated":false
   }
